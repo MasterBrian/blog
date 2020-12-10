@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Scotch and Thoughts"
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MasterBrian/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +30,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Test Post](/_posts/2020-12-09-test.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
