@@ -16,3 +16,13 @@
     font-weight: normal;
     color: #6c1010;
 }
+
+.main-nav {
+    position: relative;
+}
+
+.main-nav li {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
