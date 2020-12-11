@@ -1,4 +1,4 @@
-This is a blog post. Don't start them with H1 headers ('#'). It will look bad in the preview until I find a fix for it.
+This is a blog post. Don't start them with H1 headers (`# H1`). It will look bad in the preview until I find a fix for it.
 
 ## So much blogging
 
