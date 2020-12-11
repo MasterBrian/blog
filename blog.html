@@ -19,10 +19,10 @@ title: Blog
 <ul >
     {% for post in site.posts limit 10 %}
     <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> 
-    	&raquo; 
-    	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-        <!--{{post.excerpt}} <a href="{{ post.url }}">Read more...</a>-->
-        </li>
+    	&#58; {{ post.title }}
+    	<!-- <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> -->
+      {{post.excerpt}} <a href="{{ post.url }}">Read more...</a> -->
+    </li>
     {% endfor %}
 </ul>
 
