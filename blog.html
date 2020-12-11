@@ -21,7 +21,8 @@ title: Blog
     <li><!-- <span>{{ post.date | date: "%m/%d/%Y" }}</span> -->
     	<!-- &#58; {{ post.title }} -->
     	<span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} : {{ post.title }}</a></span>
-      {{post.excerpt}} <a href="{{ post.url }}">Read more...</a>
+      {{post.excerpt}}
+      <hr />
     </li>
     {% endfor %}
 </ul>
