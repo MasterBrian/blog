@@ -18,9 +18,9 @@ title: Blog
 
 <ul >
     {% for post in site.posts limit 10 %}
-    <li><span>{{ post.date | date: "%m/%d/%Y" }}</span> 
+    <li><!-- <span>{{ post.date | date: "%m/%d/%Y" }}</span> -->
     	<!-- &#58; {{ post.title }} -->
-    	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} : {{ post.title }}</a> -->
+    	<span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} : {{ post.title }}</a></span>
       {{post.excerpt}} <a href="{{ post.url }}">Read more...</a>
     </li>
     {% endfor %}
