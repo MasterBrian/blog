@@ -3,13 +3,15 @@ layout: default
 ---
 
 <div class="idea-content">
+{{ idea.title }}
 
-# Ideas:
-
-<ul>
-  <li> Things
-  <li> And
-  <li> Stuff
+<ul >
+    {% for idea in site.ideas %}
+    <li>{{ site.idea }}</li>
+    {% endfor %}
 </ul>
+
+</div>
+</div>
 
 </div>
