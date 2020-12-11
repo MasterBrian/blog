@@ -4,13 +4,25 @@ title: Scotch & Thoughts
 ---
 
 <div class="home-content">
-<h2>Recent Post</h2>
+<h1>Latest Post</h1>
 
 <ul>
-  {% for post in site.posts limit 1 %}
+  {% for post in site.posts limit:1 %}
     <li>
       <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} : {{ post.title }}</a>
       {{ post.content }}
+    </li>
+  {% endfor %}
+</ul>
+
+<hr>
+  
+<h1>Recent Posts</h1>
+<ul>
+  {% for post in site.posts offset:1 limit:2 %}
+    <li>
+      <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} : {{ post.title }}</a>
+      {{ post.excerpt }}
       <a href="{{ BASE_PATH }}{{ post.url }}">Read More... </a>
     </li>
   {% endfor %}
