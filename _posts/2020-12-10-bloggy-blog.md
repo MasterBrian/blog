@@ -9,6 +9,7 @@ More blog than your body has room for
   - Biscuits
 
 Here is a drunken gnome:
+
 ![DrunkenGnome](/images/gnome.jpg)
 
 ## That's All Folks
