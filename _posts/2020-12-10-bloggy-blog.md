@@ -7,7 +7,10 @@ More blog than your body has room for
 - Listing Things
   - Whiskey
   - Biscuits
-  
+
+Here is a drunken gnome:
+![DrunkenGnome](/images/gnome.jpg)
+
 ## That's All Folks
 Not much else to see. Just want to determine the structure of the post list to see if I need to make any changes.
 
