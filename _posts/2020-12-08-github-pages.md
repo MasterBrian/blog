@@ -30,7 +30,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Test Post](/_posts/2020-12-09-test.md)
 
 For more details see [GitHub Flavored Markdown](http://masterbrian.com/2020/12/10/markdown.html).
 
