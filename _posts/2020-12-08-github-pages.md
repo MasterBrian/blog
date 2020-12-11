@@ -32,11 +32,13 @@ Syntax highlighted code block
 ```
 [Test Post](/_posts/2020-12-09-test.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](http://masterbrian.com/2020/12/10/markdown.html).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MasterBrian/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Zaz: I chose a default theme for you (Cayman), but have since updated it to provide a more personal look and feel. If you try to change the theme, it will almost defnitely break things. Let me know if you want anything to look a little different and I can work on that.
 
 ### Support or Contact
 
