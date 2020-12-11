@@ -31,6 +31,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Zaz: For a terrible example of what blog posts look like, check out this [Test Blog Post](http://masterbrian.com/2020/12/10/bloggy-blog.html).
+
+
 For more details see [GitHub Flavored Markdown](http://masterbrian.com/2020/12/10/markdown.html).
 
 ### Jekyll Themes
