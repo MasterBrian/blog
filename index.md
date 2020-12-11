@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Scotch and Thoughts"
+title: "Scotch & Thoughts"
 ---
 
 ## Welcome to GitHub Pages
