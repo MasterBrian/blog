@@ -26,7 +26,7 @@ Facebook is one of many examples of the places you _could_ use. Opening any text
 
 ## Editing
 
-You can use the [editor on GitHub](https://github.com/MasterBrian/masterbrian.github.io/edit/gh-pages/_posts/2020-12-08-github-pages.md) to maintain and preview the content for your website in Markdown files. Or use any device that has A) a text editor, and B) git. I can help you with that if you want.
+You can use the [editor on GitHub](https://github.com/MasterBrian/masterbrian.github.io/edit/gh-pages/_posts/2020-12-08-your-website.md) to maintain and preview the content for your website in Markdown files. Or use any device that has A) a text editor, and B) git. I can help you with that if you want.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
