@@ -5,7 +5,7 @@ title: Github Pages
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MasterBrian/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/MasterBrian/masterbrian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -31,10 +31,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Zaz: For a terrible example of what blog posts look like, check out this [Test Blog Post](http://masterbrian.com/2020/12/10/bloggy-blog.html).
+Zaz: For a terrible example of what blog posts look like, check out this [Test Blog Post](http://masterbrian.com/2020/12/09/bloggy-blog.html).
 
 
-For more details see [GitHub Flavored Markdown](http://masterbrian.com/2020/12/10/markdown.html).
+For more details see [GitHub Flavored Markdown](https://masterbrian.com/2020/12/10/markdown).
 
 ### Jekyll Themes
 
