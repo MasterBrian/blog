@@ -35,7 +35,7 @@ Syntax highlighted code block
 
 Zaz: For a terrible example of what blog posts look like, check out this [Test Blog Post](http://masterbrian.com/2020/12/09/bloggy-blog).
 
-For more details see [GitHub Flavored Markdown](https://masterbrian.com/2020/12/10/markdown).
+For more details see [GitHub Flavored Markdown](https://masterbrian.com/2020/12/08/markdown).
 
 ### Jekyll Themes
 
