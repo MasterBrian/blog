@@ -5,6 +5,16 @@ title: Your Website
 
 # Welcome To Your Website
 
+Now, it's not much. But it should be enough to get you started. What I wanted to give you was a place for you to write. Of course, you could still post things on Facebook, but it's long since moved from a platform to share ideas and become a platform for distractions and attention grabbing. I wanted to provide something that only changed when you wanted it to. A place you could sit and make your own. Here are the goals I had when building it out:
+
+- Simple way to just write
+- Shareable
+- Host with 24/7 access
+- Versioned and backed up automatically
+- Simple way to store ideas
+- Options for 'ideas' vs full 'posts'
+- Way to record scratch and tage thoughts
+
 Here is the system I came up with. 
 
 Facebook is one of many examples of the places you _could_ use. Opening any text editor would allow you to record information there. However, in order to actually facilitate writing, I also needed to provide some tools to make it simple and convenient. The notebook is part of that. Three critical sections are included:
@@ -12,7 +22,6 @@ Facebook is one of many examples of the places you _could_ use. Opening any text
 2) Habit Tracker: This reason I got you this specific notebook. We've talked about this before as something Jerry Seinfeld did for writing his comedy. Forcing him to continue daily. Turns out, that's based on some psychology work done back in the 60's around morning good habits. Simply list the 'habits' you want to track. These can be any actionalble item. Then mark each day you complete it. 
 3) Notebook Section: I would recommend this as your rough draft area. It creates a simple source to scribble any though you have. And easily review your last thoughts the next time you open it up. This can help create a kind of continuous momentum if that helps. If not, it's easy to use however you like. 
 
-You may ask at this point, why not use a computer (written ironically as I move these words from my notebook to this site). Sure, you already have social media and probably OneNote or Google Docs. The issue with these is that computer are static. Because of that, no technology today is as versatile as pen and paper. No computer allows you to write and then draw something accurately on a single page without having to swtich from keyboard to stylus over mutliple apps. Computers also require that you remember when and where you wrote something. Notebooks are easier. It's all in one place, written out sequentially, organized further by the index. The biggest benefit I find though is that you can record an idea as you're having it, in the exact way you're thinkg of it. You don't have to conform to an existing apps structure. Notebooks are amazing at capturing unstructured information. And that's why I got you this one. To allow you to add some structure as you like and post it after you've had time to construct it as you want it to be.
 
 ## Editing
 
