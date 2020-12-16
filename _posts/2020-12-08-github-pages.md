@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Github Pages
+title: Your Website
 ---
 
-## Welcome to GitHub Pages
+## Welcome To Your Website
 
-You can use the [editor on GitHub](https://github.com/MasterBrian/masterbrian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/MasterBrian/masterbrian.github.io/edit/gh-pages/_posts/2020-12-08-github-pages.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Zaz: I encourage you to click into the editor link and play around with the posts. Once you get a feel for the format, you're more than welcome to delete this Welcome post, as you won't really need it.
 
 ### Markdown
 
@@ -32,7 +34,6 @@ Syntax highlighted code block
 ```
 
 Zaz: For a terrible example of what blog posts look like, check out this [Test Blog Post](http://masterbrian.com/2020/12/09/bloggy-blog.html).
-
 
 For more details see [GitHub Flavored Markdown](https://masterbrian.com/2020/12/10/markdown).
 
