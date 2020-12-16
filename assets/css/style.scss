@@ -1,0 +1,26 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.page-header {
+    padding: 1rem 3rem;
+    color: #fff;
+    text-align: center;
+    background-color: #155799;
+    background-image: none;
+}
+
+.main-content, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5 {
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #6c1010;
+}
+
+.main-nav li {
+    display: inline;
+}
+
+.main-nav a {
+    color: #fff;
+}
