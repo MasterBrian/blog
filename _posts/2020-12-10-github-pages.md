@@ -3,13 +3,13 @@ layout: default
 title: Your Website
 ---
 
-## Welcome To Your Website
+# Welcome To Your Website
 
 You can use the [editor on GitHub](https://github.com/MasterBrian/masterbrian.github.io/edit/gh-pages/_posts/2020-12-08-github-pages.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Zaz: I encourage you to click into the editor link and play around with the posts. Once you get a feel for the format, you're more than welcome to delete this Welcome post, as you won't really need it.
+Zaz: I encourage you to click into the editor link and play around with the posts. Once you get a feel for the format, you're more than welcome to delete this Welcome post (or any others I started as demonstration), as you won't really need those.
 
 ### Markdown
 
