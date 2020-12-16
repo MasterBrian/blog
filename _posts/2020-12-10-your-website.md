@@ -66,7 +66,7 @@ I chose a default theme for you (Cayman), but have since updated it to provide a
 
 ### Support or Contact
 
-I will message you credentials to access your account. Feel free to change those if you want. Your official domain also comes with an email account that I'll link you to. Let me know if you have any issues or your want to change anything. I haven't had time to fully learn the system, but I know enough to customize it. 
+I will message you credentials to access your account. Feel free to change those if you want. We can discuss technical details and how-tos later. Your official domain also comes with an email account that I'll link you to. Let me know if you have any issues or your want to change anything. I haven't had time to fully learn the system, but I know enough to customize it. 
 
 For official support or anything you want to check out yourself there is [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) available through Github.
 
