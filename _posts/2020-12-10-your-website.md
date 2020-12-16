@@ -22,6 +22,7 @@ Facebook is one of many examples of the places you _could_ use. Opening any text
 2) Habit Tracker: This reason I got you this specific notebook. We've talked about this before as something Jerry Seinfeld did for writing his comedy. Forcing him to continue daily. Turns out, that's based on some psychology work done back in the 60's around morning good habits. Simply list the 'habits' you want to track. These can be any actionalble item. Then mark each day you complete it. 
 3) Notebook Section: I would recommend this as your rough draft area. It creates a simple source to scribble any though you have. And easily review your last thoughts the next time you open it up. This can help create a kind of continuous momentum if that helps. If not, it's easy to use however you like. 
 
+  (Further reading in notebook)
 
 ## Editing
 
