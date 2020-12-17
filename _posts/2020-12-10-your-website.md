@@ -13,16 +13,18 @@ Now, it's not much. But it should be enough to get you started. What I wanted to
 - Versioned and backed up automatically
 - Simple way to store ideas
 - Options for 'ideas' vs full 'posts'
-- Way to record scratch and tage thoughts
+- Way to record scratch and stage thoughts
 
 Here is the system I came up with. 
 
 Facebook is one of many examples of the places you _could_ use. Opening any text editor would allow you to record information there. However, in order to actually facilitate writing, I also needed to provide some tools to make it simple and convenient. The notebook is part of that. Three critical sections are included:
-1) One Line Per Day: Which offers a section to create promps and fill them in, one line per day. I've used this for recording memories I didn't want to forget and for generating project ideas.
-2) Habit Tracker: This reason I got you this specific notebook. We've talked about this before as something Jerry Seinfeld did for writing his comedy. Forcing him to continue daily. Turns out, that's based on some psychology work done back in the 60's around morning good habits. Simply list the 'habits' you want to track. These can be any actionalble item. Then mark each day you complete it. 
-3) Notebook Section: I would recommend this as your rough draft area. It creates a simple source to scribble any though you have. And easily review your last thoughts the next time you open it up. This can help create a kind of continuous momentum if that helps. If not, it's easy to use however you like. 
+
+1. One Line Per Day: Which offers a section to create prompts and fill them in, one line per day. I've used this for recording memories I didn't want to forget and for generating project ideas.
+2. Habit Tracker: The reason I got you this specific notebook. We've talked about this before as something Jerry Seinfeld did for writing his comedy. Forcing him to continue daily. Turns out that's based on some psychology work done back in the 60's around forming good habits. Simply list the 'habits' you want to track. These can be any actionalble item. Then mark each day you complete it. 
+3. Notebook Section: I would recommend this as your rough draft area. It creates a simple source to scribble any thoughts you have. And easily review your last thoughts the next time you open it up. This can help create a kind of continuous momentum if that helps. If not, it's easy to use however you like. 
 
   (Further reading in notebook)
+
 
 ## Editing
 
